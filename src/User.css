@@ -1,0 +1,45 @@
+
+
+.wh {
+    border: 2px solid white;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.head {
+    background-color: rgb(31, 31, 65);
+    padding: 30px 10px 15px 10px;
+    line-height: 5.5px;
+    color: black;
+
+}
+
+.head h2,
+head h3 {
+    margin: 5px;
+}
+
+img {
+    margin-top: 25px;
+    height: 105px;
+    width: 105px;
+}
+
+.names {
+
+    text-align: center;
+    line-height: 15px;
+    margin-bottom: 25px;
+}
+
+hr {
+    color: black;
+    margin: 0;
+    height: 4px;  
+}
+
+.na{
+    background-color: rgb(31, 31, 65);
+    padding: 3%;
+}
+
